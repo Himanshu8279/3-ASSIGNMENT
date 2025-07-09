@@ -38,3 +38,42 @@ Q 1
 
 </body>
 </html>
+
+         <hr>
+
+Q-2
+
+<!DOCTYPE>
+<html>
+
+      <head>
+
+            <title> entites </title>
+     </head>
+
+<body>
+
+     <h1> What is entites </h1> 
+       <p> HTML Entities are special codes used in HTML to display characters that have a reserved meaning in HTML or characters that cannot easily be typed using a keyboard.</p>
+
+           <hr>
+        <h1> List out 5 commonly used HTML entities </h1>
+        
+      <ol>
+           <li> This is am% = &amp;</li> 
+           <li>It&apos;s a sunny day!</li>
+           <li>Copyright &copy; 2025</li>
+           <li>  &lt; Himanshu &gt; </li 
+           <li> register &reg </li>
+    
+       </ol>
+
+
+
+</body>
+
+
+</html>
+
+
+
