@@ -228,4 +228,40 @@ Q-5
 
 Q-6
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+ <title>HTML vs HTML5</title>
+
+</head>
+
+<body>
+  <h1>Difference Between HTML and HTML5</h1>
+
+  <table border="1">
+    
+      <tr>
+        <th>HTML</th>
+        <th>HTML5</th>
+      </tr>
+    
+    
+      <tr>
+        <td>Does not support audio and video tags directly.</td>
+        <td>Supports audio and video tags for media playback.</td>
+      </tr>
+      <tr>
+        <td>No support for semantic elements like &lt;header&gt;, &lt;footer&gt;.</td>
+        <td>Introduces semantic elements such as &lt;header&gt;, &lt;footer&gt;, &lt;article&gt;.</td>
+      </tr>
+      <tr>
+        <td>Relies heavily on third-party plugins like Flash for multimedia.</td>
+        <td>Removes the need for plugins by supporting multimedia natively.</td>
+      </tr>
+    
+  </table>
+
+</body>
+</html>
 
