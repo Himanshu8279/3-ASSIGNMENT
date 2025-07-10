@@ -56,7 +56,7 @@ Q-2
      <h1> What is entites </h1> 
        <p> HTML Entities are special codes used in HTML to display characters that have a reserved meaning in HTML or characters that cannot easily be typed using a keyboard.</p>
 
-           <hr>
+           
         <h1> List out 5 commonly used HTML entities </h1>
         
       <ol>
@@ -75,5 +75,157 @@ Q-2
 
 </html>
 
+<hr>
+
+Q-3
+
+
+
+<!DOCTYPE>
+<HTML>
+       <head>
+
+              <title> 3 question      </title>                 
+
+       </head>
+
+<body>
+
+   
+      <h1> Accessibility in Web Development: </h1>
+
+           <p>Accessibility in web development means designing and building websites that everyone can use, including people with disabilities. This includes people who are blind, deaf, have mobility issues, or learning difficulties. Accessible websites work well with assistive technologies like screen readers, keyboard navigation, and voice commands.</p>
+
+           
+         <h1>Why It's Essential to Create Accessible Websites:</h1>
+
+
+         <ol>
+              <li> <b>Equal Access for All:</b><p> Everyone deserves to access information, services, and opportunities online, regardless of their physical or mental abilities.</p></li>
+
+               <li> <b>Legal Requirements: </b> <p>Many countries have laws (like the ADA or WCAG guidelines) that require websites to be accessible.</p>
+
+               <li><b>Better User Experience:</b><p>Accessible websites are usually easier to navigate and understand for everyone, not just people with disabilities.</p></li>
+
+
+
+         </ol>
+
+                         <h1>How It Benefits Different User Groups:</h1>
+
+          <ol>
+                 <li> <b>Visually Impaired Users:</b> <p>Can use screen readers if the site includes alt text for images and properly labeled links.</p></li>
+      
+                  <li> <b>Hearing Impaired Users:</b> <p>Benefit from captions and transcripts for audio or video content.</p></li>
+                
+                  <li> <b>Mobility-Impaired Users:</b> <p>Can navigate using a keyboard instead of a mouse</p></li>
+
+        </ol>
+
+
+</body>
+
+
+</html>
+
+<hr>
+Q-4
+
+
+<!DOCTYPE>
+<html>
+     <head>
+
+             <title> improve the accessibility of HTML   </title>
+
+    </head>
+
+<body>
+
+            <h1> List any 3 ways which help us in improving the accessibility of HTM </h1>
+
+
+<ol>
+
+
+     <li> <b> Use Semantic HTML Tags </b> <p> tag like <mark> &lt;header&gt; &lt;nav&gt; &lt;main&gt; &lt;article&gt; AND &lt;footer&gt; </mark>  help screen readers understand the structure of the webpage better.   </p></li>
+
+    <li> <b> Add alt Text to Images </b> <p>Use the alt attribute in the <img> tag to describe the image. This helps visually impaired users understand the content through screen readers.
+Example: <img src="dog.jpg" alt="A brown dog running on grass">
+
+</p></li>
+
+    <li> <b> Use Labels with Form Elements </b>  <p> Connect &lt;label &gt; with input fields using the <mark> for </mark> attribute so screen readers can tell users what each form field is for. <br>
+
+  Example =   <label for="email">Email:</label>
+              <input type="email" id="email" name="email">
+
+
+
+ </p></li>
+
+
+
+
+</ol>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+<hr>
+
+
+Q-5
+
+<!DOCTYPE html>
+<html>
+<head>
+
+          <title> html5 feature  </title>
+   
+</head>
+<body>
+
+  <header>
+    <h1>HTML5 Features</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Semantic Tags</h2>
+      <p>Tags like &lt;header&gt;, &lt;nav&gt;, &lt;footer&gt; make code more readable and SEO-friendly.</p>
+    </section>
+
+    <section>
+      <h2>Audio & Video</h2>
+      <p>HTML5 supports audio and video without extra plugins.</p>
+      <audio controls>
+        <source src="sample.mp3" type="audio/mpeg">
+      </audio>
+    </section>
+
+    <section>
+      <h2>Offline Storage</h2>
+      <p>Use localStorage to store data in the browser for offline use.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 HTML5 Demo</p>
+  </footer>
+
+</body>
+</html>
+<hr>
+
+Q-6
 
 
